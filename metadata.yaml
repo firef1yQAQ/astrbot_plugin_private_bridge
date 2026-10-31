@@ -1,0 +1,9 @@
+name: astrbot_plugin_private_bridge
+display_name: 私聊互通
+desc: 记录各私聊最近的消息，把其他好友的动态作为背景注入，让 bot 知道别的朋友说过什么。
+short_desc: 记录各私聊最近的消息，把其他好友的动态作为背景注入，让 bo
+help: 被问“另一个朋友刚才说了什么”时能答上来。
+version: 0.1.1
+author: dsh
+repo: ""
+astrbot_version: ">=4.0.0"
